@@ -1,0 +1,53 @@
+1.Ixd Components:
+
+		1.Motion eg gesture on phone
+		2.Space eg 
+		3.Time eg loading time
+		4.Appearance eg Signals
+		5.Texture (Visual cues) eg making a button look clickable
+		6.Sound : elements to enhance user experience.
+
+			"People ignore design that ignores people."
+			
+2.User-Centered Design:
+	Prioritize need and prefference of end user
+	
+	Human-centered vs user-centered
+		all users are human but not all are using it.
+		focus on target audience.
+		understand problem
+	User-Centered design principles
+	essential ittem of User-Centered design
+		visibility
+		accesibitily
+		legibility
+		language
+	
+	steps	
+		Research
+			||	Collect and analyze data
+		Define and align
+			||	to your requirements
+		Design and build
+			||	Solutions or designs
+		Test
+			||	Get feedback!(in-person , remote, guerrila)
+		Iterate & Design
+				implement changes
+	
+
+User Research	
+		requirements,needs,prefference and pain points
+		to reveal valuable information
+		
+	Types of research
+		Quantitative research(numeric data)
+			focueses on measuring and quantifying results.
+		Qualitative research(non-numeric data)
+			human experience,behaviour and perceptions.
+			text,audio,video or images.
+			
+	attitudinal
+		listen to what user say
+	behavioral
+		see what user do through studies
