@@ -52,5 +52,4 @@ User Research
 	behavioral
 		see what user do through studies
 
-
-some changes
+delete
