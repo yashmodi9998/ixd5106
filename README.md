@@ -1,5 +1,5 @@
 # ixd5106
-A repo to store files of ixd5106.
+A repo to store files for ixd5106.
 
 ## Learning Outcome
 
@@ -7,13 +7,13 @@ A repo to store files of ixd5106.
 - Tools and technology used to Demonstrate form, function, and design interactions 
 - Foundational theory and application understanding of Laws on interaction design
 > [!Note]
-Scores will be based on assignment .
+Scores will be based on assignment.
 
 > [!Warning]
 Submit all the assignments
 
 > [!Important]
-Blackboard is the best way to contact with Julia.
+Blackboard is the best way to contact Julia.
 
 ## Sample Design
-![Figma Sample Design](_readme/figma-design-sample.png)
+![Figma Sample Design](_readme/design-sample.png)
