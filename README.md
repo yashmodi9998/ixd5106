@@ -10,7 +10,7 @@ A repo to store files for ixd5106.
 Scores will be based on assignment.
 
 > [!Warning]
-Submit all the assignments
+Submit all the assignments.
 
 > [!Important]
 Blackboard is the best way to contact Julia.
