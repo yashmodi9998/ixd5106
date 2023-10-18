@@ -7,7 +7,7 @@ A repo to store files for ixd5106.
 - Tools and technology used to Demonstrate form, function, and design interactions 
 - Foundational theory and application understanding of Laws on interaction design
 > [!Note]
-Scores will be based on assignment.
+Scores will be based on assignments.
 
 > [!Warning]
 Submit all the assignments.
